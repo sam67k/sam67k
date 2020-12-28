@@ -126,7 +126,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <br/>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sam67k.png" align="center" />  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sam67k" align="center" />  
 </div>
 
 </details>
