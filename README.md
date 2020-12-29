@@ -4,7 +4,7 @@
 
 <br/>
 
-# <div align="center">I'm Samama, a passionate self-taught full-stack web developer 👨‍💻 from Pakistan</div>
+# <div align="center">I'm Samama, a passionate self-taught full-stack web developer 👨‍💻</div>
 
 ### <div align="center">Student of Software Engineering at Institute of Management Sciences (IMSciences), Peshawar</div>
 
