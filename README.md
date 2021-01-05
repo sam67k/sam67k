@@ -10,7 +10,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on Front End Web Development ([Vue Js]())
+- 🔭 I’m currently working on Front End Web Development ([Nuxt Js](https://nuxtjs.org))
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🌱 I’m currently learning everything 🤣
 - ❓ Ask me about anything related to latest technologies
