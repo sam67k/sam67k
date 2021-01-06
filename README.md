@@ -75,7 +75,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 <br/>
 
-<details><summary style="font-size: 18px;">👉 All of GitHub Metrics and Stats</summary>
+<details><summary align="center" style="font-size: 24px;">👉 All of GitHub Metrics and Stats</summary>
 
 <br/>
 
