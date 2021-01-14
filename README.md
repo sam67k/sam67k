@@ -10,7 +10,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on Front End Web Development ([Nuxt Js](https://nuxtjs.org))
+- 🔭 I’m currently working on Front End Web Development ([Vue Js](https://vuejs.org/))
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🌱 I’m currently learning everything 🤣
 - ❓ Ask me about anything related to latest technologies
@@ -38,7 +38,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />
-<img style="margin: 10px" src="http://nuxtjs.org/logos/nuxt-square.svg" alt="Nuxt.js" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />   
