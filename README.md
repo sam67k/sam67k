@@ -56,14 +56,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 <br/>
 
-## <div align="center">My GitHub contributions as a Game of Life</div>
-
-<br/>
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/sam67k.gif)](https://github4life.herokuapp.com/sam67k)
-
-<br/>
-
 ## <div align="center"> Visitor count </div>
 
 <p align="center">
@@ -146,7 +138,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by ⭐ing some of the repositories!
 
 </div>
 
