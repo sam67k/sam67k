@@ -72,7 +72,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sam67k&show_icons=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sam67k&show_icons=false" align="center" /></div>
 
 <br/>
 <br/>
@@ -82,7 +82,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam67k&hide_border=true&layout=compact" align="center" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam67k&layout=compact" align="center" />  
 </div>
 
 <br/>
