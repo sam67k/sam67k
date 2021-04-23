@@ -17,11 +17,11 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I use tabs over spaces
 
-### Work(coding & development)
+### 📝 Work(coding & development)
 
 - ✨ [Github](https://github.com/sam67k?tab=repositories)
 
-### 📝 Work(other than development)
+### 📝 Work(other)
 
 - 🎨 [Behance](https://www.behance.net/samamakhan)
 - 🖵 [SlideShare](http://slideshare.net/SamamaKhan1/)
