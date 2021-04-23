@@ -17,6 +17,15 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I use tabs over spaces
 
+### Work(coding & development)
+
+- ✨ [Github](https://github.com/sam67k?tab=repositories)
+
+### 📝 Work(other than development)
+
+- 🎨 [Behance](https://www.behance.net/samamakhan)
+- 🖵 [SlideShare](http://slideshare.net/SamamaKhan1/)
+
 ### 📫 How to reach me
 
 I love to talk to people and discuss tech! You can reach me out on any channels below!
