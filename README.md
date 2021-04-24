@@ -33,8 +33,6 @@
 
 ### 📫 How to reach me
 
-<br/>
-
 I love to talk to people and discuss tech! You can reach me out and connect on any channels below!
 
 - 🗃️ [Linkedin](https://www.linkedin.com/in/SamamaKhan/)
