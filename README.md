@@ -22,8 +22,8 @@
 - ✨ Web Basics - HTML/CSS -- [Project](https://github.com/sam67k/blogspot)
 - ✨ [Programming Fundamentals - Python](https://github.com/sam67k/pythoncode) -- [Project](https://github.com/sam67k/BillPaymentSystem) -- [Assignment 1](https://github.com/sam67k/pythoncode/blob/main/Assignment.ipynb) -- [Assignment 2](https://github.com/sam67k/pythoncode/blob/main/HomeWork.ipynb) -- [Assignment 3](https://github.com/sam67k/pythoncode/blob/main/LabHomework.ipynb) -- [Assignment 4](https://github.com/sam67k/pythoncode/blob/main/MuhammadSamamaKhan-Quiz-2-Solution.ipynb) -- [Assignment 5](https://github.com/sam67k/pythoncode/blob/main/MuhammadSamamaKhan.ipynb)
 - ✨ [Object Oriented Programming - Java](https://github.com/sam67k/javacode) -- [Project 1](https://github.com/sam67k/javacode/tree/main/AirlineReservationsSystem) -- [Project 2](https://github.com/sam67k/javacode/tree/main/Problem4) -- [Assignment 1](https://github.com/sam67k/javacode/tree/main/Problem1) -- [Assignment 2](https://github.com/sam67k/javacode/tree/main/Problem2) -- [Assignment 3](https://github.com/sam67k/javacode/tree/main/Problem3)
-- ✨ [Operating System - (Shell / C / C++ scripts)](https://github.com/sam67k/scripts)
-- ✨ [Networking and Communication - (Packet Tracer)](https://github.com/sam67k/packettracer)
+- ✨ [Operating System - Shell / C / C++ scripts](https://github.com/sam67k/scripts)
+- ✨ [Networking and Communication - Packet Tracer](https://github.com/sam67k/packettracer)
 - ✨ Object Oriented Software Engineering + Database Management System -- [Project](https://github.com/sam67k/factorymanagementsystem)
 
 ### 📝 Work(other)
