@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/sam67k/sam67k/blob/main/greetings.gif" align="center" style="width: 100%" />
 </div>
 
 <br/>
 
-# <div align="center">I'm Samama, a passionate self-taught front end developer 👨‍💻</div>
+# <div align="center">I'm Samama 🔰, a passionate self-taught front end developer 👨‍💻</div>
 
 ### <div align="center">Student of Software Engineering at Institute of Management Sciences (IMSciences), Peshawar</div>
 
@@ -17,9 +17,14 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I use tabs over spaces
 
-### 📝 Work(coding & development)
+### 📝 Coursework(Academic)
 
-- ✨ [Github](https://github.com/sam67k?tab=repositories)
+- ✨ Web Basics - HTML/CSS -- [Project](https://github.com/sam67k/blogspot)
+- ✨ [Programming Fundamentals - Python](https://github.com/sam67k/pythoncode) -- [Project](https://github.com/sam67k/BillPaymentSystem) -- [Assignment 1](https://github.com/sam67k/pythoncode/blob/main/Assignment.ipynb) -- [Assignment 2](https://github.com/sam67k/pythoncode/blob/main/HomeWork.ipynb) -- [Assignment 3](https://github.com/sam67k/pythoncode/blob/main/LabHomework.ipynb) -- [Assignment 4](https://github.com/sam67k/pythoncode/blob/main/MuhammadSamamaKhan-Quiz-2-Solution.ipynb) -- [Assignment 5](https://github.com/sam67k/pythoncode/blob/main/MuhammadSamamaKhan.ipynb)
+- ✨ [Object Oriented Programming - Java](https://github.com/sam67k/javacode) -- [Project 1](https://github.com/sam67k/javacode/tree/main/AirlineReservationsSystem) -- [Project 2](https://github.com/sam67k/javacode/tree/main/Problem4) -- [Assignment 1](https://github.com/sam67k/javacode/tree/main/Problem1) -- [Assignment 2](https://github.com/sam67k/javacode/tree/main/Problem2) -- [Assignment 3](https://github.com/sam67k/javacode/tree/main/Problem3)
+- ✨ [Operating System - (Shell / C / C++ scripts)](https://github.com/sam67k/scripts)
+- ✨ [Networking and Communication - (Packet Tracer)](https://github.com/sam67k/packettracer)
+- ✨ Object Oriented Software Engineering + Database Management System -- [Project](https://github.com/sam67k/factorymanagementsystem)
 
 ### 📝 Work(other)
 
@@ -28,8 +33,12 @@
 
 ### 📫 How to reach me
 
-I love to talk to people and discuss tech! You can reach me out on any channels below!
+<br/>
 
+I love to talk to people and discuss tech! You can reach me out and connect on any channels below!
+
+- 🗃️ [Linkedin](https://www.linkedin.com/in/SamamaKhan/)
+- 🐦 [Twitter](https://twitter.com/isam67k)
 - 📱 [Telegram](https://t.me/samamakhan)
 - 💬 [Here](https://github.com/sam67k/sam67k/issues)
 - 💻 [Discord](https://discord.com/users/samamakhan#6157/)
@@ -73,7 +82,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 <br/>
 
-<details><summary align="center" style="font-size: 24px;">👉 All of GitHub Metrics and Stats</summary>
+<details><summary align="center">👉 All of GitHub Metrics and Stats</summary>
 
 <br/>
 
@@ -131,18 +140,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </details>
 
 <br/>
-<br/>
-
-<div align="center" style="font-size: 24px;">Connect with me</div>
-
-<br/>
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Samama%20Khan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SamamaKhan/) [![Twitter Follow](https://img.shields.io/twitter/follow/isam67k?label=%40iSam67K&style=social)](https://twitter.com/isam67k)
-
-</div>
-
 <br/>
 
 <div align="center">
