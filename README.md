@@ -43,7 +43,7 @@
 
 5. ✨ [Networking and Communication - Packet Tracer](https://github.com/sam67k/packettracer)
 
-6. ✨ Object Oriented Software Engineering + Database Management System
+6. ✨ Object Oriented Software Engineering - UML & Database Management System - Oracle 11g / MySQL
 
     - 📁 [Project](https://github.com/sam67k/factorymanagementsystem)
 
