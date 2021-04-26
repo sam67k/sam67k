@@ -41,6 +41,10 @@
 
 4. ✨ [Operating System - Shell / C / C++ scripts](https://github.com/sam67k/scripts)
 
+    - 🗄️ [Shell Scripts](https://github.com/sam67k/scripts/blob/main/Shellscripts)
+    - 🗄️ [C Scripts](https://github.com/sam67k/scripts/blob/main/Cscripts)
+    - 🗄️ [C++ Scripts](https://github.com/sam67k/scripts/blob/main/CPPscripts)
+
 5. ✨ [Networking and Communication - Packet Tracer](https://github.com/sam67k/packettracer)
 
 6. ✨ Object Oriented Software Engineering - UML & Database Management System - Oracle 11g / MySQL
