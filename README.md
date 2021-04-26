@@ -51,7 +51,7 @@
 
     - 📁 [Project](https://github.com/sam67k/factorymanagementsystem)
 
-7. ✨ 🚧🚧🚧
+7. ✨ [Mobile Computing - Android(Java)](https://github.com/sam67k/mobilecomputing)
 
 ### 📝 Work(other)
 
