@@ -25,19 +25,14 @@
 2. ✨ [Programming Fundamentals - Python](https://github.com/sam67k/pythoncode)
 
     - 📁 [Project](https://github.com/sam67k/BillPaymentSystem)
-    - 🗄️ [Assignment 1](https://github.com/sam67k/pythoncode/blob/main/Assignment.ipynb)
-    - 🗄️ [Assignment 2](https://github.com/sam67k/pythoncode/blob/main/HomeWork.ipynb)
-    - 🗄️ [Assignment 3](https://github.com/sam67k/pythoncode/blob/main/LabHomework.ipynb)
-    - 🗄️ [Assignment 4](https://github.com/sam67k/pythoncode/blob/main/MuhammadSamamaKhan-Quiz-2-Solution.ipynb)
-    - 🗄️ [Assignment 5](https://github.com/sam67k/pythoncode/blob/main/MuhammadSamamaKhan.ipynb)
+    - 🗄️ [Assignments](https://github.com/sam67k/pythoncode/tree/main/assignments-tasks)
+    - ✔️ [Lab Work](https://github.com/sam67k/pythoncode/tree/main/labwork)
 
 3. ✨ [Object Oriented Programming - Java](https://github.com/sam67k/javacode)
 
-    - 📁 [Project 1](https://github.com/sam67k/javacode/tree/main/AirlineReservationsSystem)
-    - 📁 [Project 2](https://github.com/sam67k/javacode/tree/main/Problem4)
-    - 🗄️ [Assignment 1](https://github.com/sam67k/javacode/tree/main/Problem1)
-    - 🗄️ [Assignment 2](https://github.com/sam67k/javacode/tree/main/Problem2)
-    - 🗄️ [Assignment 3](https://github.com/sam67k/javacode/tree/main/Problem3)
+    - 📁 [Projects](https://github.com/sam67k/javacode/tree/main/projects)
+    - 🗄️ [Assignments](https://github.com/sam67k/javacode/tree/main/assignments)
+    - ✔️ [Lab Work](https://github.com/sam67k/javacode/tree/main/labwork)
 
 4. ✨ [Operating System - Shell / C / C++ scripts](https://github.com/sam67k/scripts)
 
