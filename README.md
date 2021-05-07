@@ -20,31 +20,32 @@
 ### 📝 Coursework(Academic)
 
 1. ✨ Web Basics - HTML/CSS
-    - 📁 [Project](https://github.com/sam67k/blogspot)
+
+   - 📁 [Project](https://github.com/sam67k/blogspot)
 
 2. ✨ [Programming Fundamentals - Python](https://github.com/sam67k/pythoncode)
 
-    - 📁 [Project](https://github.com/sam67k/BillPaymentSystem)
-    - 🗄️ [Assignments](https://github.com/sam67k/pythoncode/tree/main/assignments-tasks)
-    - ✔️ [Lab Work](https://github.com/sam67k/pythoncode/tree/main/labwork)
+   - 📁 [Project](https://github.com/sam67k/BillPaymentSystem)
+   - 🗄️ [Assignments](https://github.com/sam67k/pythoncode/tree/main/assignments-tasks)
+   - ✔️ [Lab Work](https://github.com/sam67k/pythoncode/tree/main/labwork)
 
 3. ✨ [Object Oriented Programming - Java](https://github.com/sam67k/javacode)
 
-    - 📁 [Projects](https://github.com/sam67k/javacode/tree/main/projects)
-    - 🗄️ [Assignments](https://github.com/sam67k/javacode/tree/main/assignments)
-    - ✔️ [Lab Work](https://github.com/sam67k/javacode/tree/main/labwork)
+   - 📁 [Projects](https://github.com/sam67k/javacode/tree/main/projects)
+   - 🗄️ [Assignments](https://github.com/sam67k/javacode/tree/main/assignments)
+   - ✔️ [Lab Work](https://github.com/sam67k/javacode/tree/main/labwork)
 
 4. ✨ [Operating System - Shell / C / C++ scripts](https://github.com/sam67k/scripts)
 
-    - 🗄️ [Shell Scripts](https://github.com/sam67k/scripts/blob/main/Shellscripts)
-    - 🗄️ [C Scripts](https://github.com/sam67k/scripts/blob/main/Cscripts)
-    - 🗄️ [C++ Scripts](https://github.com/sam67k/scripts/blob/main/CPPscripts)
+   - 🗄️ [Shell Scripts](https://github.com/sam67k/scripts/blob/main/Shellscripts)
+   - 🗄️ [C Scripts](https://github.com/sam67k/scripts/blob/main/Cscripts)
+   - 🗄️ [C++ Scripts](https://github.com/sam67k/scripts/blob/main/CPPscripts)
 
 5. ✨ [Networking and Communication - Packet Tracer](https://github.com/sam67k/packettracer)
 
 6. ✨ Object Oriented Software Engineering - UML & Database Management System - Oracle 11g / MySQL
 
-    - 📁 [Project](https://github.com/sam67k/factorymanagementsystem)
+   - 📁 [Project](https://github.com/sam67k/factorymanagementsystem)
 
 7. ✨ [Mobile Computing - Android(Java)](https://github.com/sam67k/mobilecomputing)
 
@@ -53,6 +54,19 @@
 - 🎨 [Behance](https://www.behance.net/samamakhan)
 - 🖵 [SlideShare](http://slideshare.net/SamamaKhan1/)
 - 🚧🚧🚧
+
+### 📝 Projects
+
+- ✔️ E-Commerece - VueJS
+  - Frontend - [Code](https://github.com/sam67k/vue-shop-frontend) - [Live Preview](https://shop-frontend-67.surge.sh/)
+  - Backend - [Code](https://github.com/sam67k/vue-shop-backend) - [Live Preview](https://shop-backend-67.surge.sh/)
+- ✔️ Stock Trader - VueJs - [Code](https://github.com/sam67k/stocktradervue) - [Live Preview](https://vuejs-stock-trader-67.surge.sh/)
+- ✔️ Expense Tracker - VueJs - [Code](https://github.com/sam67k/expensetrackervue) - [Live Preview](https://expense-tracker-vue-67.surge.sh/)
+- ✔️ Guess Number - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/guessnumber) - [Live Preview](https://codepen.io/sam67k/full/OJpLjgo)
+- ✔️ Budgety - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/dicegame) - [Live Preview](https://codepen.io/sam67k/full/oNZveXY)
+- ✔️ Dice Game - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/budgety) - [Live Preview](https://codepen.io/sam67k/full/GRWKvqQ)
+
+<br/>
 
 ### 📫 How to reach me
 
