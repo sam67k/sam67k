@@ -47,7 +47,10 @@
 
    - 📁 [Project](https://github.com/sam67k/factorymanagementsystem)
 
-7. ✨ [Mobile Computing - Android(Java)](https://github.com/sam67k/mobilecomputing)
+7. ✨ Mobile Computing - Android(Java)
+
+   - 📁 [Projects](https://github.com/sam67k/libib)
+   - ✔️ [Lab Work](https://github.com/sam67k/mobilecomputing)
 
 ### 📝 Work(other)
 
@@ -65,6 +68,7 @@
 - ✔️ Guess Number - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/guessnumber) - [Live Preview](https://codepen.io/sam67k/full/OJpLjgo)
 - ✔️ Budgety - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/dicegame) - [Live Preview](https://codepen.io/sam67k/full/oNZveXY)
 - ✔️ Dice Game - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/budgety) - [Live Preview](https://codepen.io/sam67k/full/GRWKvqQ)
+- ✔️ Youtube.ipynb - Python - [Code / Preview](https://colab.research.google.com/drive/1rofUpcpBhGFgUCU6JRl0ILZn4jAIG8gCss)
 
 <br/>
 
