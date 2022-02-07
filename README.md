@@ -4,7 +4,7 @@
 
 <br/>
 
-# <div align="center">I'm Samama 🔰, a passionate self-taught front end developer 👨‍💻</div>
+# <div align="center">I'm Samama 🔰, a passionate self-taught developer 👨‍💻</div>
 
 ### <div align="center">Student of Software Engineering at Institute of Management Sciences (IMSciences), Peshawar</div>
 
@@ -60,15 +60,16 @@
 
 ### 📝 Projects
 
-- ✔️ E-Commerece - VueJS
+- ✔️ E-Commerece - [VueJs, Firebase]
   - Frontend - [Code](https://github.com/sam67k/vue-shop-frontend) - [Live Preview](https://shop-frontend-67.surge.sh/)
   - Backend - [Code](https://github.com/sam67k/vue-shop-backend) - [Live Preview](https://shop-backend-67.surge.sh/)
-- ✔️ Stock Trader - VueJs - [Code](https://github.com/sam67k/stocktradervue) - [Live Preview](https://vuejs-stock-trader-67.surge.sh/)
+- ✔️ Stock Trader - [VueJs, Firebase] - [Code](https://github.com/sam67k/stocktradervue) - [Live Preview](https://vuejs-stock-trader-67.surge.sh/)
 - ✔️ Expense Tracker - VueJs - [Code](https://github.com/sam67k/expensetrackervue) - [Live Preview](https://expense-tracker-vue-67.surge.sh/)
 - ✔️ Guess Number - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/guessnumber) - [Live Preview](https://codepen.io/sam67k/full/OJpLjgo)
-- ✔️ Budgety - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/dicegame) - [Live Preview](https://codepen.io/sam67k/full/oNZveXY)
-- ✔️ Dice Game - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/budgety) - [Live Preview](https://codepen.io/sam67k/full/GRWKvqQ)
+- ✔️ Budgety - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/budgety) - [Live Preview](https://codepen.io/sam67k/full/oNZveXY)
+- ✔️ Dice Game - Javascript - [Code](https://github.com/sam67k/codepenassets/tree/main/dicegame) - [Live Preview](https://codepen.io/sam67k/full/GRWKvqQ)
 - ✔️ Youtube.ipynb - Python - [Code / Preview](https://colab.research.google.com/drive/1rofUpcpBhGFgUCU6JRl0ILZn4jAIG8gCss)
+- ✔️ Sales Leaderboard System - [VueJs, Firebase] - [Live Preview](https://leaderboard.businessfestims.com/)
 
 <br/>
 
@@ -78,9 +79,7 @@ I love to talk to people and discuss tech! You can reach me out and connect on a
 
 - 🗃️ [Linkedin](https://www.linkedin.com/in/SamamaKhan/)
 - 🐦 [Twitter](https://twitter.com/isam67k)
-- 📱 [Telegram](https://t.me/samamakhan)
 - 💬 [Here](https://github.com/sam67k/sam67k/issues)
-- 💻 [Discord](https://discord.com/users/samamakhan#6157/)
 - ✉️ [Email](mailto:k67sam@gmail.com)
 
 <br/>
