@@ -6,11 +6,11 @@
 
 # <div align="center">I'm Samama 🔰, a passionate self-taught developer 👨‍💻</div>
 
-### <div align="center">Student of Software Engineering at Institute of Management Sciences (IMSciences), Peshawar</div>
+### <div align="center">Fullstack Engineer at ProductBox, Peshawar</div>
 
 <br/>
 
-- 🔭 I’m currently working on Front End Web Development ([Vue Js](https://vuejs.org/))
+- 🔭 I’m currently working on Fullstack Web Development([Node.js](https://reactjs.org/), [React.js](https://nodejs.org/))
 - 👯 I’m looking to collaborate on Web Development Projects
 - 🌱 I’m currently learning everything 🤣
 - ❓ Ask me about anything related to latest technologies
@@ -78,7 +78,6 @@
 I love to talk to people and discuss tech! You can reach me out and connect on any channels below!
 
 - 🗃️ [Linkedin](https://www.linkedin.com/in/SamamaKhan/)
-- 🐦 [Twitter](https://twitter.com/isam67k)
 - 💬 [Here](https://github.com/sam67k/sam67k/issues)
 - ✉️ [Email](mailto:k67sam@gmail.com)
 
@@ -94,19 +93,17 @@ I love to talk to people and discuss tech! You can reach me out and connect on a
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" />  
 <p>.... and many more to learn</p>
 </div>
 
